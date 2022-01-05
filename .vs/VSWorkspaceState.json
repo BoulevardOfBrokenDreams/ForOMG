@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\IsLeapYear",
-    "\\IsLeapYear\\IsLeapYear"
+    "\\IsLeapYear\\IsLeapYear",
+    "\\IsTheSame",
+    "\\IsTheSame\\IsTheSame"
   ],
-  "SelectedNode": "\\IsLeapYear\\IsLeapYear\\Program.cs",
+  "SelectedNode": "\\IsTheSame\\IsTheSame\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
