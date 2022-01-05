@@ -1,0 +1,15 @@
+D:\Git\ForOMG\IsTheSame\IsTheSame\bin\Debug\net6.0\IsTheSame.exe
+D:\Git\ForOMG\IsTheSame\IsTheSame\bin\Debug\net6.0\IsTheSame.deps.json
+D:\Git\ForOMG\IsTheSame\IsTheSame\bin\Debug\net6.0\IsTheSame.runtimeconfig.json
+D:\Git\ForOMG\IsTheSame\IsTheSame\bin\Debug\net6.0\IsTheSame.dll
+D:\Git\ForOMG\IsTheSame\IsTheSame\bin\Debug\net6.0\ref\IsTheSame.dll
+D:\Git\ForOMG\IsTheSame\IsTheSame\bin\Debug\net6.0\IsTheSame.pdb
+D:\Git\ForOMG\IsTheSame\IsTheSame\obj\Debug\net6.0\IsTheSame.csproj.AssemblyReference.cache
+D:\Git\ForOMG\IsTheSame\IsTheSame\obj\Debug\net6.0\IsTheSame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\ForOMG\IsTheSame\IsTheSame\obj\Debug\net6.0\IsTheSame.AssemblyInfoInputs.cache
+D:\Git\ForOMG\IsTheSame\IsTheSame\obj\Debug\net6.0\IsTheSame.AssemblyInfo.cs
+D:\Git\ForOMG\IsTheSame\IsTheSame\obj\Debug\net6.0\IsTheSame.csproj.CoreCompileInputs.cache
+D:\Git\ForOMG\IsTheSame\IsTheSame\obj\Debug\net6.0\IsTheSame.dll
+D:\Git\ForOMG\IsTheSame\IsTheSame\obj\Debug\net6.0\ref\IsTheSame.dll
+D:\Git\ForOMG\IsTheSame\IsTheSame\obj\Debug\net6.0\IsTheSame.pdb
+D:\Git\ForOMG\IsTheSame\IsTheSame\obj\Debug\net6.0\IsTheSame.genruntimeconfig.cache
