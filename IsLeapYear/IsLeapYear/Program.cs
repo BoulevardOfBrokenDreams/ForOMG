@@ -10,7 +10,8 @@
     }
     public static void Main()
     {
-        int Year = Convert.ToInt32(Console.ReadLine());
+        int Year; 
+        Year = Convert.ToInt32(Console.ReadLine());
         Console.WriteLine(IsLeap(Year));
     }
 }
