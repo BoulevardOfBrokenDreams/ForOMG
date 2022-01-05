@@ -2,11 +2,7 @@
 {
     public static bool IsLeap(int Year)
     {
-        if(Year % 4 == 0 || Year % 100 != 0 && Year % 400 == 0)
-        {
-            return true;
-        }
-        return false;
+        return Year % 4 == 0 || Year % 100 != 0 && Year % 400 == 0;
     }
     public static void Main()
     {
