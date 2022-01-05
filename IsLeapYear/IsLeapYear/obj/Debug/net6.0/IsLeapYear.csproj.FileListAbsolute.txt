@@ -1,0 +1,15 @@
+D:\Git\ForOMG\IsLeapYear\IsLeapYear\obj\Debug\net6.0\IsLeapYear.csproj.AssemblyReference.cache
+D:\Git\ForOMG\IsLeapYear\IsLeapYear\obj\Debug\net6.0\IsLeapYear.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\ForOMG\IsLeapYear\IsLeapYear\obj\Debug\net6.0\IsLeapYear.AssemblyInfoInputs.cache
+D:\Git\ForOMG\IsLeapYear\IsLeapYear\obj\Debug\net6.0\IsLeapYear.AssemblyInfo.cs
+D:\Git\ForOMG\IsLeapYear\IsLeapYear\obj\Debug\net6.0\IsLeapYear.csproj.CoreCompileInputs.cache
+D:\Git\ForOMG\IsLeapYear\IsLeapYear\bin\Debug\net6.0\IsLeapYear.exe
+D:\Git\ForOMG\IsLeapYear\IsLeapYear\bin\Debug\net6.0\IsLeapYear.deps.json
+D:\Git\ForOMG\IsLeapYear\IsLeapYear\bin\Debug\net6.0\IsLeapYear.runtimeconfig.json
+D:\Git\ForOMG\IsLeapYear\IsLeapYear\bin\Debug\net6.0\IsLeapYear.dll
+D:\Git\ForOMG\IsLeapYear\IsLeapYear\bin\Debug\net6.0\ref\IsLeapYear.dll
+D:\Git\ForOMG\IsLeapYear\IsLeapYear\bin\Debug\net6.0\IsLeapYear.pdb
+D:\Git\ForOMG\IsLeapYear\IsLeapYear\obj\Debug\net6.0\IsLeapYear.dll
+D:\Git\ForOMG\IsLeapYear\IsLeapYear\obj\Debug\net6.0\ref\IsLeapYear.dll
+D:\Git\ForOMG\IsLeapYear\IsLeapYear\obj\Debug\net6.0\IsLeapYear.pdb
+D:\Git\ForOMG\IsLeapYear\IsLeapYear\obj\Debug\net6.0\IsLeapYear.genruntimeconfig.cache

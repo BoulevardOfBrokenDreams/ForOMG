@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\codes\\IsLeapYear\\IsLeapYear\\IsLeapYear.csproj",
+      "projectUniqueName": "D:\\Git\\ForOMG\\IsLeapYear\\IsLeapYear\\IsLeapYear.csproj",
       "projectName": "IsLeapYear",
-      "projectPath": "D:\\codes\\IsLeapYear\\IsLeapYear\\IsLeapYear.csproj",
+      "projectPath": "D:\\Git\\ForOMG\\IsLeapYear\\IsLeapYear\\IsLeapYear.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\codes\\IsLeapYear\\IsLeapYear\\obj\\",
+      "outputPath": "D:\\Git\\ForOMG\\IsLeapYear\\IsLeapYear\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
