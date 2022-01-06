@@ -1,0 +1,15 @@
+D:\Git\ForOMG\Palindrome\Palindrome\bin\Debug\net6.0\Palindrome.exe
+D:\Git\ForOMG\Palindrome\Palindrome\bin\Debug\net6.0\Palindrome.deps.json
+D:\Git\ForOMG\Palindrome\Palindrome\bin\Debug\net6.0\Palindrome.runtimeconfig.json
+D:\Git\ForOMG\Palindrome\Palindrome\bin\Debug\net6.0\Palindrome.dll
+D:\Git\ForOMG\Palindrome\Palindrome\bin\Debug\net6.0\ref\Palindrome.dll
+D:\Git\ForOMG\Palindrome\Palindrome\bin\Debug\net6.0\Palindrome.pdb
+D:\Git\ForOMG\Palindrome\Palindrome\obj\Debug\net6.0\Palindrome.csproj.AssemblyReference.cache
+D:\Git\ForOMG\Palindrome\Palindrome\obj\Debug\net6.0\Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\ForOMG\Palindrome\Palindrome\obj\Debug\net6.0\Palindrome.AssemblyInfoInputs.cache
+D:\Git\ForOMG\Palindrome\Palindrome\obj\Debug\net6.0\Palindrome.AssemblyInfo.cs
+D:\Git\ForOMG\Palindrome\Palindrome\obj\Debug\net6.0\Palindrome.csproj.CoreCompileInputs.cache
+D:\Git\ForOMG\Palindrome\Palindrome\obj\Debug\net6.0\Palindrome.dll
+D:\Git\ForOMG\Palindrome\Palindrome\obj\Debug\net6.0\ref\Palindrome.dll
+D:\Git\ForOMG\Palindrome\Palindrome\obj\Debug\net6.0\Palindrome.pdb
+D:\Git\ForOMG\Palindrome\Palindrome\obj\Debug\net6.0\Palindrome.genruntimeconfig.cache
