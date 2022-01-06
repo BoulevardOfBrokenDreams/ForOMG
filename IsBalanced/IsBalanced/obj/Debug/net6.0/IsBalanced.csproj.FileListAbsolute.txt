@@ -1,0 +1,15 @@
+D:\Git\ForOMG\IsBalanced\IsBalanced\bin\Debug\net6.0\IsBalanced.exe
+D:\Git\ForOMG\IsBalanced\IsBalanced\bin\Debug\net6.0\IsBalanced.deps.json
+D:\Git\ForOMG\IsBalanced\IsBalanced\bin\Debug\net6.0\IsBalanced.runtimeconfig.json
+D:\Git\ForOMG\IsBalanced\IsBalanced\bin\Debug\net6.0\IsBalanced.dll
+D:\Git\ForOMG\IsBalanced\IsBalanced\bin\Debug\net6.0\ref\IsBalanced.dll
+D:\Git\ForOMG\IsBalanced\IsBalanced\bin\Debug\net6.0\IsBalanced.pdb
+D:\Git\ForOMG\IsBalanced\IsBalanced\obj\Debug\net6.0\IsBalanced.csproj.AssemblyReference.cache
+D:\Git\ForOMG\IsBalanced\IsBalanced\obj\Debug\net6.0\IsBalanced.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\ForOMG\IsBalanced\IsBalanced\obj\Debug\net6.0\IsBalanced.AssemblyInfoInputs.cache
+D:\Git\ForOMG\IsBalanced\IsBalanced\obj\Debug\net6.0\IsBalanced.AssemblyInfo.cs
+D:\Git\ForOMG\IsBalanced\IsBalanced\obj\Debug\net6.0\IsBalanced.csproj.CoreCompileInputs.cache
+D:\Git\ForOMG\IsBalanced\IsBalanced\obj\Debug\net6.0\IsBalanced.dll
+D:\Git\ForOMG\IsBalanced\IsBalanced\obj\Debug\net6.0\ref\IsBalanced.dll
+D:\Git\ForOMG\IsBalanced\IsBalanced\obj\Debug\net6.0\IsBalanced.pdb
+D:\Git\ForOMG\IsBalanced\IsBalanced\obj\Debug\net6.0\IsBalanced.genruntimeconfig.cache
