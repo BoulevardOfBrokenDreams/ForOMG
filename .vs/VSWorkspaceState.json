@@ -1,11 +1,15 @@
 {
   "ExpandedNodes": [
     "",
+    "\\IsBalanced",
+    "\\IsBalanced\\IsBalanced",
     "\\IsLeapYear",
     "\\IsLeapYear\\IsLeapYear",
     "\\IsTheSame",
-    "\\IsTheSame\\IsTheSame"
+    "\\IsTheSame\\IsTheSame",
+    "\\Palindrome",
+    "\\Palindrome\\Palindrome"
   ],
-  "SelectedNode": "\\IsTheSame\\IsTheSame\\Program.cs",
+  "SelectedNode": "\\IsBalanced\\IsBalanced\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
