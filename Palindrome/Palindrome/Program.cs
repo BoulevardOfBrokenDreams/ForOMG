@@ -1,28 +1,71 @@
 ﻿class Solution
 {
-    public static bool IsPalindrome(string Str)
+    private static readonly char[] _chars = new char[]
     {
-        int LenStr = Str.Length - 1;
+        '"',
+        '\'',
+        '.',
+        ',',
+        '<',
+        '>',
+        '(',
+        ')',
+        '{',
+        '}',
+        '[',
+        ']',
+        ';',
+        ':',
+        '^',
+        '?',
+        '!',
+        '+',
+        '=',
+        '-',
+        '_',
+        '*',
+        '&',
+        '|',
+        '\\',
+        '/',
+        ' '
+    };
+    public static bool IsPalindrome(string String)
+    {
+        String = String.ToLower();
 
-        for(int i = 0; i < LenStr / 2; i++)
+        var FirstIndex = 0;
+        var LastIndex = String.Length - 1;
+
+        while (FirstIndex < LastIndex)
         {
-            if(Str[i] != Str[LenStr - i])
+            while (_chars.Contains(String[FirstIndex]))
+            {
+                FirstIndex++;
+                continue;
+            }
+
+            while (_chars.Contains(String[LastIndex]))
+            {
+                LastIndex--;
+                continue;
+            }
+
+            if (String[FirstIndex] != String[LastIndex])
             {
                 return false;
             }
+
+            FirstIndex++;
+            LastIndex--;
         }
         return true;
     }
-    public static void Main()
-    {
-        string Str = Console.ReadLine();
-        for(int i = 0; i < Str.Length; i++)
-        {
-            if (char.IsPunctuation(Str[i]) || Str[i] == ' ')
-            {
-                Str = Str.Remove(i,1);
-            }
-        }
-        Console.WriteLine(IsPalindrome(Str.ToLower()));
-    }
 }
+/* 
+ * ...asdf,,,,!!!![][][][()()()(_++_=-+_fdsa!!!
+ * as
+ * asa
+ * !.,.,.,.,.,,.fff.,.,.,.,g';';';fff\":\"::
+ * !.,   .,.,.,.,,.fff.,.    ,.,.,g   ';';';fff\":\"::      
+ */
